@@ -8,7 +8,7 @@
   "tip_dialog": {
         "title": "公告",
         "content": "纤纤云播V1.6版本已经可以正常播放了。\n纤纤云播，你值得拥有！！！",
-        "cancelable": 1
+        "cancelable": 1,
         "button1": "好的"
     }
 }
