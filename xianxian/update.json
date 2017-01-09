@@ -6,9 +6,9 @@
     "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xiaoya/xianxian_v1.6.apk",
   },
   "tip_dialog": {
-        "title": "公告",
+        "title": "纤纤公告",
         "content": "纤纤云播V1.6版本已经可以正常播放了。\n纤纤云播，你值得拥有！！！",
-        "cancelable": 1,
-        "button1": "好的"
+        "cancelable": 0,
+        "button1": "知道了"
     }
 }
