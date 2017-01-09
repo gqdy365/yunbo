@@ -1,7 +1,7 @@
 {
-  "version_name": "1.5",
-  "version_code": "15",
-  "description": "1.5新版本：修改了无法播放的问题；\n各位司机朋友，久等了！！！",
-  "tip": "服务器升级中，部分用户暂时无法播放，请稍后再试。\n纤纤云播，你值得拥有！！！",
-  "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xiaoya/xianxian_v1.5.apk"
+  "version_name": "1.6",
+  "version_code": "16",
+  "description": "1.6新版本：修改了无法播放的问题！",
+  "tip": "纤纤云播V1.6版本已经可以正常播放了。\n纤纤云播，你值得拥有！！！",
+  "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xiaoya/xianxian_v1.6.apk"
 }
