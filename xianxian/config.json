@@ -2,7 +2,7 @@
    "base": {
         "parse_main_host": "http://api.btvda.com",
         "film_url": "http://www.181bt.com/movie/",
-         "price": "10,100,200,2"
+         "price": "0.02,100,200,2"
     },
    "keywords": {
         "main_keywords":["湄公河行动","盗墓笔记","三少爷的剑","你的名字","长城","摆渡人","美国队长","X战警","星球大战","周星驰","周润发","成龙"]
