@@ -1,13 +1,13 @@
 {
   "update_info": {
-    "version_name": "1.6",
-    "version_code": "16",
-    "description": "1.6新版本：修改了无法播放的问题！",
-    "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xiaoya/xianxian_v1.6.apk",
+    "version_name": "1.7",
+    "version_code": "17",
+    "description": "1.7新版本，祝老司机们春节快乐！",
+    "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xianxian/xianxianV1.7.apk",
   },
   "tip_dialog": {
         "title": "纤纤公告",
-        "content": "纤纤云播V1.6版本已经可以正常播放了。\n纤纤云播，你值得拥有！！！",
+        "content": "祝老司机们春节快乐！！！",
         "cancelable": 1,
         "button1": "知道了"
     }
