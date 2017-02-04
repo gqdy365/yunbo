@@ -1,6 +1,6 @@
 {
    "base": {
-        "parse_main_host": "http://api.btvda.com",
+        "parse_main_host": "http://www.dpj168.com",
         "film_url": "http://www.7nmg.com/",
          "pay_price": "12,100,200,2",
          "pay_describe": "12个月 1元 （无限观看，不可下载）#1年 100元 （无限观看，无限下载）#永久 200元 （无限观看，无限下载）#1天 2元 （无限观看，不可下载）",
