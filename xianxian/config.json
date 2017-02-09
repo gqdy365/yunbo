@@ -12,5 +12,9 @@
    "search_cfg": {
         "switch": 1,
         "content": "搜索功能不可用"
+    },
+   "register_cfg": {
+        "switch": 1,
+        "content": "暂不开放注册"
     }
 }
