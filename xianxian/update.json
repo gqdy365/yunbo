@@ -1,11 +1,11 @@
 {
   "update_info": {
-    "version_name": "1.8",
-    "version_code": "18",
+    "version_name": "1.7",
+    "version_code": "17",
     "limit_version": "17",
     "limit_content": "不在提供视频播放！",
-    "description": "新版本，请升级。",
-    "update_url":"https://raw.githubusercontent.com/gqdy365/yunbo/master/xianxian/xianxianV1.8.apk",
+    "description": "维护中，请稍后再试。",
+    "update_url":"",
   },
   "tip_dialog": {
         "title": "公告",
