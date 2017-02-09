@@ -11,5 +11,9 @@
         "content": "严禁观看涉黄内容！！！",
         "cancelable": 1,
         "button1": "知道了"
+    },
+  "search_cfg": {
+        "switch": 1,
+        "content": "严禁观看涉黄内容！！！"
     }
 }
