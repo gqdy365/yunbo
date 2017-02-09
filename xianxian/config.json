@@ -14,7 +14,7 @@
         "content": "搜索功能不可用"
     },
    "register_cfg": {
-        "switch": 0,
+        "switch": 1,
         "content": "暂不开放注册"
     }
 }
