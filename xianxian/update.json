@@ -3,8 +3,8 @@
     "version_name": "1.9",
     "version_code": "19",
     "limit_version": "17",
-    "limit_content": "不在提供视频播放！",
-    "description": "请升级！",
+    "limit_content": "不再提供视频播放！",
+    "description": "不再提供视频播放！",
     "update_url":"",
   },
   "tip_dialog": {
