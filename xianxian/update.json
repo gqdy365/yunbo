@@ -5,7 +5,7 @@
     "limit_version": "17",
     "limit_content": "不在提供视频播放！",
     "description": "请升级！",
-    "update_url":"https://raw.githubusercontent.com/bobo369/test/master/xianxianV19.apk",
+    "update_url":"",
   },
   "tip_dialog": {
         "title": "公告",
