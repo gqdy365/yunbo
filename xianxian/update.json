@@ -2,11 +2,11 @@
    "update_info": {
       "version_name": "2.2",
       "version_code": "22",
-      "limit_version": "1",
- -    "limit_content": "最新版,请升级！",
- -    "description": "最新版,请升级！",
- +    "limit_content": "最新版,请升级！",
- +    "description": "最新版,请升级！",
+       "limit_version": "1",
+      "limit_content": "最新版,请升级！",
+      "description": "最新版,请升级！",
+      "limit_content": "最新版,请升级！",
+      "description": "最新版,请升级！",
       "update_url":"https://raw.githubusercontent.com/bobo369/test/master/cilibo-2.2.apk",
     },
     "tip_dialog": {
