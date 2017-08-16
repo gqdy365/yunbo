@@ -1,11 +1,11 @@
  {
    "update_info": {
-      "version_name": "2.6",
-      "version_code": "26",
+      "version_name": "2.7",
+      "version_code": "27",
        "limit_version": "1",
       "limit_content": "最新版,请升级！",
       "description": "最新版,请升级！",
-      "update_url":"https://raw.githubusercontent.com/bobo369/test/master/cilibo-2.6.apk",
+      "update_url":"https://raw.githubusercontent.com/bobo369/test/master/cilibo-2.7.apk",
     },
     "tip_dialog": {
          "title": "公告",
